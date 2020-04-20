@@ -6,7 +6,7 @@ with open('requirements.txt') as fp:
 setup(
     name='file_api',
     packages=['file_api'],
-    version='0.1',
+    version='1.0',
     description='Client for the Bmat TV/AV file api',
     author='BMAT developers',
     author_email='tv-av@bmat.com',
